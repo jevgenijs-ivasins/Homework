@@ -1,0 +1,8 @@
+C:\Users\jevgenijs.ivasins\Bootcamp\LINQ_Bootcamp\bin\Debug\LINQ_Bootcamp.exe.config
+C:\Users\jevgenijs.ivasins\Bootcamp\LINQ_Bootcamp\bin\Debug\LINQ_Bootcamp.exe
+C:\Users\jevgenijs.ivasins\Bootcamp\LINQ_Bootcamp\bin\Debug\LINQ_Bootcamp.pdb
+C:\Users\jevgenijs.ivasins\Bootcamp\LINQ_Bootcamp\obj\Debug\LINQ_Bootcamp.csproj.AssemblyReference.cache
+C:\Users\jevgenijs.ivasins\Bootcamp\LINQ_Bootcamp\obj\Debug\LINQ_Bootcamp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jevgenijs.ivasins\Bootcamp\LINQ_Bootcamp\obj\Debug\LINQ_Bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\jevgenijs.ivasins\Bootcamp\LINQ_Bootcamp\obj\Debug\LINQ_Bootcamp.exe
+C:\Users\jevgenijs.ivasins\Bootcamp\LINQ_Bootcamp\obj\Debug\LINQ_Bootcamp.pdb
