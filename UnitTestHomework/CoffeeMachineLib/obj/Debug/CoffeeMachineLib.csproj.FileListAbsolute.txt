@@ -1,0 +1,14 @@
+C:\Users\jevgenijs.ivasins\Bootcamp\CoffeeMachineLib\bin\Debug\CoffeeMachineLib.pdb
+C:\Users\jevgenijs.ivasins\Bootcamp\CoffeeMachineLib\obj\Debug\CoffeeMachineLib.csproj.AssemblyReference.cache
+C:\Users\jevgenijs.ivasins\Bootcamp\CoffeeMachineLib\obj\Debug\CoffeeMachineLib.csproj.CoreCompileInputs.cache
+C:\Users\jevgenijs.ivasins\Bootcamp\CoffeeMachineLib\obj\Debug\CoffeeMachineLib.pdb
+C:\Users\jevgenijs.ivasins\Bootcamp\CoffeeMachineLib\bin\Debug\CoffeeMachineLib.exe
+C:\Users\jevgenijs.ivasins\Bootcamp\CoffeeMachineLib\obj\Debug\CoffeeMachineLib.csproj.SuggestedBindingRedirects.cache
+C:\Users\jevgenijs.ivasins\Bootcamp\CoffeeMachineLib\obj\Debug\CoffeeMachineLib.exe
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\CoffeeMachineLib\bin\Debug\CoffeeMachineLib.exe
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\CoffeeMachineLib\bin\Debug\CoffeeMachineLib.pdb
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\CoffeeMachineLib\obj\Debug\CoffeeMachineLib.csproj.AssemblyReference.cache
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\CoffeeMachineLib\obj\Debug\CoffeeMachineLib.csproj.SuggestedBindingRedirects.cache
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\CoffeeMachineLib\obj\Debug\CoffeeMachineLib.csproj.CoreCompileInputs.cache
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\CoffeeMachineLib\obj\Debug\CoffeeMachineLib.exe
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\CoffeeMachineLib\obj\Debug\CoffeeMachineLib.pdb

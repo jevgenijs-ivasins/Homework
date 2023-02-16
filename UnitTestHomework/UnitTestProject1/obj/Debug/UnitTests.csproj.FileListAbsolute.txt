@@ -1,0 +1,11 @@
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\UnitTestProject1\bin\Debug\CoffeeMachineLib.exe
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\UnitTestProject1\bin\Debug\CoffeeMachineLib.pdb
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\UnitTestProject1\obj\Debug\UnitTests.csproj.AssemblyReference.cache
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\UnitTestProject1\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\jevgenijs.ivasins\Bootcamp\Homework\UnitTestHomework\UnitTestProject1\obj\Debug\UnitTests.csproj.CopyComplete
