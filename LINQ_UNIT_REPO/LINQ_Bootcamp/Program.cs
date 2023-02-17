@@ -12,20 +12,20 @@ namespace LINQ_Bootcamp
         static void Main(string[] args)
         {
 
-            //List<Student> students = new List<Student>();
-            //students.Add(new Student(0, "Jevgenijs", "Ivashins", 22, 1, 10));
-            //students.Add(new Student(1, "Sofja", "Ytrewq", 20, 3, 12));
-            //students.Add(new Student(2, "Andis", "dasf", 23, 3, 15));
-            //students.Add(new Student(3, "Raitis", "dsafax", 21, 1, 22));
-            //students.Add(new Student(4, "Arturs", "dfqas", 21, 2, 11));
-            //students.Add(new Student(5, "Daniils", "dsafax", 20, 2, 34));
-            //students.Add(new Student(6, "Kristaps", "dfqas", 21, 1, 15));
-            //students.Add(new Student(7, "Pavels", "dfqas", 21, 2, 5));
+            List<Student> students = new List<Student>();
+            students.Add(new Student(0, "Jevgenijs", "Ivashins", 22, 1, 10));
+            students.Add(new Student(1, "Sofja", "Ytrewq", 20, 3, 12));
+            students.Add(new Student(2, "Andis", "dasf", 23, 3, 15));
+            students.Add(new Student(3, "Raitis", "dsafax", 21, 1, 22));
+            students.Add(new Student(4, "Arturs", "dfqas", 21, 2, 11));
+            students.Add(new Student(5, "Daniils", "dsafax", 20, 2, 34));
+            students.Add(new Student(6, "Kristaps", "dfqas", 21, 1, 15));
+            students.Add(new Student(7, "Pavels", "dfqas", 21, 2, 5));
 
-            //List<Type> types = new List<Type>();
-            //types.Add(new Type() { Id = 1, Name = "Front-end" });
-            //types.Add(new Type() { Id = 2, Name = "Back-end" });
-            //types.Add(new Type() { Id = 3, Name = "Full-stack" });
+            List<Type> types = new List<Type>();
+            types.Add(new Type() { Id = 1, Name = "Front-end" });
+            types.Add(new Type() { Id = 2, Name = "Back-end" });
+            types.Add(new Type() { Id = 3, Name = "Full-stack" });
 
             #region Task 1
             // #### TASK 1 ####
@@ -111,60 +111,12 @@ namespace LINQ_Bootcamp
 
             #region Homework
 
-            List<HomeworkClass> homeworkGroup = new List<HomeworkClass>();
-            HomeworkClass homework = new HomeworkClass() { Id = 1 };
-            homeworkGroup.Add(homework);
-            HomeworkClass homework2 = new HomeworkClass() { Id = 1 };
-            Console.WriteLine(homeworkGroup.Contains(homework2));
+            Student student = new Student(7, "Pavels", "dfqas", 21, 2, 5);
+            bool doContain = students.Contains(student);
+            Console.WriteLine(doContain);
             Console.ReadLine();
 
             #endregion
-        }
-       
-    }
-
-    public class List<T>
-    {
-
-        public T[] generalList = new T[0];
-
-        public void Add(T newObj)
-        {
-            T[] tempList = generalList;
-            generalList = new T[generalList.Length + 1];
-            for(int i = 0; i < generalList.Length; i++)
-            {
-                // -1 to access array's last element
-                if(i == generalList.Length - 1)
-                {
-                    generalList[i] = newObj;
-                    break;
-                }
-                generalList[i] = tempList[i];
-            }
-        }
-
-        // It's ugly but achieves the task
-        public bool Contains(T compareObj)
-        {
-            HomeworkClass homeworkCompare = new HomeworkClass();
-            if(compareObj.GetType() == typeof(HomeworkClass))
-            {
-                homeworkCompare = compareObj as HomeworkClass;
-            }
-
-            foreach(T iteratableObj in generalList)
-            {
-                if(iteratableObj.GetType() == typeof(HomeworkClass))
-                {
-                    HomeworkClass homeworkIteratable = iteratableObj as HomeworkClass;
-                    if (homeworkIteratable.Id == homeworkCompare.Id)
-                    {
-                        return true;
-                    }
-                }
-            }
-            return false;
         }
 
     }
