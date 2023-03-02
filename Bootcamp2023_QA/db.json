@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Chais",
+      "categoryId": 1,
+      "supplierId": 1,
+      "unit": "10 boxes x 20 bags",
+      "price": 18.2
+    },
+    {
+      "id": 2,
+      "productName": "Chang",
+      "categoryId": 1,
+      "supplierId": 1,
+      "unit": "24 - 12 oz bottles",
+      "price": 19
+    },
+    {
+      "id": 3,
+      "productName": "Aniseed Syrup",
+      "categoryId": 1,
+      "supplierId": 2,
+      "unit": "12 - 550 ml bottles",
+      "price": 10
+    }
+  ],
+  "suppliers": [
+    {
+      "id": 1,
+      "supplierName": "Exotic Liquid",
+      "contactName": "Charlotte Cooper",
+      "address": "49 Gilbert St.",
+      "city": "London",
+      "postalCode": "EC1 4SD",
+      "country": "UK",
+      "phone": "(171) 555-2222"
+    },
+    {
+      "id": 2,
+      "supplierName": "New Orleans Cajun Delight",
+      "contactName": "Shelley Burke",
+      "address": "P.O. Box 78934",
+      "city": "New Orleans",
+      "postalCode": "70117",
+      "country": "USA",
+      "phone": "(100) 555-4822"
+    },
+    {
+      "id": 3,
+      "supplierName": "Grandma Kelly",
+      "contactName": "Regina Murphy",
+      "address": "707 Oxford Rd.",
+      "city": "Ann Arbor",
+      "postalCode": "48104",
+      "country": "USA",
+      "phone": "(313) 555-5735"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Beverages",
+      "description": "Soft drinks, coffees, teas, beers, and ales"
+    },
+    {
+      "id": 2,
+      "categoryName": "Condiments",
+      "description": "Sweet and savory sauces, relishes, spreads, and seasonings"
+    },
+    {
+      "id": 3,
+      "categoryName": "Confections",
+      "description": "Desserts, candies, and sweet breads"
+    },
+    {
+      "id": 4,
+      "categoryName": "Dairy Products",
+      "description": "Cheeses"
+    }
+  ]
+}

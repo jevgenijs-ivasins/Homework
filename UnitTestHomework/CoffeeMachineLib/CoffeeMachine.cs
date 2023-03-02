@@ -7,8 +7,8 @@ namespace CoffeeMachineLib
     public class CoffeeMachine
     {
         private int _coins;
-        public int getCoins { get { return _coins; } }
-        public int setCoins { set { _coins = value; } }
+        public int GetCoins { get { return _coins; } }
+        public int SetCoins { set { _coins = value; } }
 
         List<CoffeeType> GenerateCoffeeTypes()
         {
@@ -71,7 +71,7 @@ namespace CoffeeMachineLib
             }
             catch(IndexOutOfRangeException indexException)
             {
-                Console.WriteLine("Unexisting type of cofee");
+                
                 return false;
             }
         }

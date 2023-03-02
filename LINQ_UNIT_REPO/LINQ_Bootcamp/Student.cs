@@ -23,22 +23,15 @@ namespace LINQ_Bootcamp
         {
             if(obj.GetType() == typeof(Student))
             {
-                PropertyInfo[] properties = typeof(Student).GetProperties();
-                Student originalStudent = this;
                 Student compareStudent = obj as Student;
-
-                for(int propertyIterator = 0; propertyIterator < properties.Length; propertyIterator++)
+                if(this.Id == compareStudent.Id)
                 {
-                    // ToString() to compare it not by memory
-                    if (properties[propertyIterator].GetValue(originalStudent).ToString() == properties[propertyIterator].GetValue(compareStudent).ToString()){
-                        continue;
-                    }
-                    else
-                    {
-                        return false;
-                    }
+                    return true;
                 }
-                return true;
+                else
+                {
+                    return false;
+                }
             }
             else
             {
